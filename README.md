@@ -2,7 +2,7 @@
 Animated Bus Route
 
 <p align="center">
-  <img width="200" height="250" src="biopic7.jpg"
+  <img width="500" height="300" src="BusRoute.jpg"
 </p>
 
 ## <ins>What it does
