@@ -1,6 +1,10 @@
 # BusRoute
 Animated Bus Route
 
+<p align="center">
+  <img width="200" height="250" src="biopic7.jpg"
+</p>
+
 ## <ins>What it does
 
 The animated bus route follows a marker along a local bus route.  I made several improvements over the original including a create marker function that creates a marker at each point on the map.  I also animated a second marker that moves to each point on the map as well as adding to the function to recenter the map at each movement.  I also used a more readable map and button style.
