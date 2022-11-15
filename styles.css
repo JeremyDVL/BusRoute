@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    padding: 0;
+  }
+  #map {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+  }
+  
+  .map-overlay {
+    position: absolute;
+    left: 0;
+    padding: 10px;
+  }
+
+  .button {
+    position: absolute;
+    top: 50%;
+    color: #fff;
+    background-color: #0a0a23;
+    outline-style: solid;
+    outline-color: red;
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+    min-height: 30px;
+    min-width: 120px;
+    font-size: 1.25em;
+    margin-top: 50px;
+
+  }
